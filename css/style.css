@@ -90,7 +90,7 @@ body {
     text-align: center;
     border-radius: 8px;
     font-size: 1.5rem;
-    padding: 21.5px 0px;
+    padding: 21.5px 15px;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-weight: 600;
@@ -145,12 +145,10 @@ body {
     }
 
     .apresentacao__conteudo__titulo {
-        font-family: var(--fonte-secundaria);
         font-size: 1.2 rem;
     }
 
     .apresentacao__conteudo__texto,.apresentacao__conteudo__links {
-        font-family: var(--fonte-secundaria);
         font-size: 0.8 rem;
     }
 
